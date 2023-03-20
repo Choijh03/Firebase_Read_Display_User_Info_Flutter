@@ -1,6 +1,6 @@
 # Firebase_Read_Display_User_Info_Flutter
 
-This is FireBase Password Reset Tutorial Application built on Flutter 3.7
+This is FireBase Read & Display User Info Tutorial Application built on Flutter 3.7
 
 -------------------------------------------------------------------------------------
 
